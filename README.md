@@ -1,1 +1,1 @@
-# covid-tracker-django
+# CovidTracker
